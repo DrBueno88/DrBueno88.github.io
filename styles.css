@@ -84,3 +84,38 @@ a.card-clean:hover { border-color:#cbb9bd; box-shadow:0 9px 28px rgba(69,28,38,.
   .about-grid{grid-template-columns:1fr;}
   .about-photo{width:min(70vw,300px);}
 }
+
+
+/* Global prose alignment */
+main p,
+main li,
+.hero-lead,
+.card-clean p,
+.about-grid > div,
+.student-list span,
+.talk-venue,
+.paper-meta {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Collaborator image placeholder */
+.collab-image-placeholder {
+  border: 1px dashed #bcaeb2;
+  border-radius: 16px;
+  background: linear-gradient(135deg,#fff 0%,#f6f0f2 100%);
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+  color: var(--pb-muted);
+}
+.collab-image-placeholder strong {
+  display:block;
+  color:var(--pb-ink);
+  font-size:1.05rem;
+  margin-bottom:.5rem;
+}
