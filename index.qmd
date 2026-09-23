@@ -27,7 +27,7 @@ I am a theoretical physicist and Professor Agregat at the Institute of Cosmos Sc
 </div>
 </div>
 <div class="hero-photo-wrap">
-<img class="hero-photo" src="assets/pablo-bueno.jpg" alt="Pablo Bueno">
+<img class="hero-photo" src="assets/pablo-bueno-cartoon.jpg" alt="Pablo Bueno">
 </div>
 </div>
 
