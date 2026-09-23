@@ -7,6 +7,14 @@ Research is collaborative. The people below include long-standing collaborators,
 
 ## Collaborators
 
+<div class="collab-image-placeholder">
+<div>
+<strong>Group illustration to be added</strong>
+Robie A. Hennigar · Pablo A. Cano · Javier Moreno · Ángel J. Murcia
+</div>
+</div>
+
+
 <div class="collab-feature-grid">
 <div class="collab-feature"><h3><a href="https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/">Robie A. Hennigar</a></h3><p>A long-standing collaborator on higher-curvature gravity, black holes, regular geometries and related questions.</p></div>
 <div class="collab-feature"><h3><a href="https://portalinvestigacion.um.es/investigadores/2192303/detalle">Pablo A. Cano</a></h3><p>A long-standing collaborator on higher-curvature gravity, black-hole physics, holography and gravitational effective theories.</p></div>
@@ -29,11 +37,11 @@ Since 2022, my papers have also included collaborations with **César A. Agón, 
 ## MSc supervision
 
 <div class="student-list">
-<div><strong>Bernat Garrofé i Pascual</strong><span> · Universitat de Barcelona · MSc in Theoretical Physics</span></div>
-<div><strong>Carlos O. Hunter</strong><span> · Universitat de Barcelona · <em>Newcomb’s Paradox as a Postselected Closed Timelike Curve</em></span></div>
-<div><strong>Adrià Olives Salmerón</strong><span> · Universitat de Barcelona · co-supervised with Carlos S. Shahbazi · <em>Magnetic geodesics on Brinkmann spacetimes from parallel spinors</em></span></div>
-<div><strong>Matteo Gabriel Marrone</strong><span> · Universitat de Barcelona · co-supervised with Robie A. Hennigar · <em>Regular black holes</em></span></div>
-<div><strong>Sami Calvo i Muñoz</strong><span> · Universitat de Barcelona · co-supervised with Ángel J. Murcia · <em>On extreme-mass-ratio mergers of spherical objects</em></span></div>
+<div><strong>Bernat Garrofé i Pascual</strong><span> · year not specified in current CV · Universitat de Barcelona · MSc in Theoretical Physics</span></div>
+<div><strong>Carlos O. Hunter</strong><span> · year not specified in current CV · Universitat de Barcelona · <em>Newcomb’s Paradox as a Postselected Closed Timelike Curve</em></span></div>
+<div><strong>Adrià Olives Salmerón</strong><span> · year not specified in current CV · Universitat de Barcelona · co-supervised with Carlos S. Shahbazi · <em>Magnetic geodesics on Brinkmann spacetimes from parallel spinors</em></span></div>
+<div><strong>Matteo Gabriel Marrone</strong><span> · year not specified in current CV · Universitat de Barcelona · co-supervised with Robie A. Hennigar · <em>Regular black holes</em></span></div>
+<div><strong>Sami Calvo i Muñoz</strong><span> · year not specified in current CV · Universitat de Barcelona · co-supervised with Ángel J. Murcia · <em>On extreme-mass-ratio mergers of spherical objects</em></span></div>
 <div><strong>Adam Fernández García</strong><span> · Universitat de Barcelona · 2024–2025 · <em>New conformal bounds in higher dimensions</em></span></div>
 <div><strong>Rubén García Llorente</strong><span> · Universitat de Barcelona · 2023–2024 · <em>Generalized quasi-topological gravities with covariant derivatives</em></span></div>
 <div><strong>Fereidoun Asadi</strong><span> · Munich University · 2022–2023 · <em>Black holes and cosmic censorship in general three-dimensional gravities</em></span></div>
