@@ -131,3 +131,21 @@ main li,
 .pub-title { font-weight:650; color:var(--pb-ink); text-decoration:none; }
 .pub-title:hover { color:var(--pb-accent); }
 .pub-ref { color:var(--pb-muted); font-size:.92rem; }
+
+
+/* Collapsible research sections */
+.expandable-section.callout {
+  background: #fff;
+  border: 1px solid var(--pb-line);
+  border-radius: 12px;
+  margin: 1.4rem 0;
+  box-shadow: 0 4px 16px rgba(0,0,0,.025);
+}
+.expandable-section .callout-header {
+  background: #fff;
+  color: var(--pb-ink);
+  font-weight: 700;
+}
+.expandable-section .callout-body-container {
+  background: #fff;
+}
