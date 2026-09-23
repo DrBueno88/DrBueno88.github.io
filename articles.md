@@ -1,6 +1,4 @@
-## All research articles
-
-The list follows the reverse-chronological ordering of my CV. Each entry includes the journal reference when available, together with links to arXiv and, for many APS/JHEP papers, to the journal via DOI.
+The list follows a reverse-chronological ordering. Each entry includes the journal reference when available, together with links to arXiv and, for many APS/JHEP papers, to the journal via DOI.
 
 ### 2026
 
