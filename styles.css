@@ -30,9 +30,9 @@ a { text-underline-offset: 3px; }
 .hero-photo-wrap { display:flex; justify-content:center; }
 .hero-photo {
   display:block;
-  width:min(100%,360px);
+  width:min(100%,320px);
   height:auto;
-  max-width:360px;
+  max-width:320px;
   aspect-ratio:auto;
   object-fit:contain;
   object-position:center;
@@ -90,7 +90,7 @@ a.card-clean:hover { border-color:#cbb9bd; box-shadow:0 9px 28px rgba(69,28,38,.
 @media(max-width:850px){
   .hero-split{grid-template-columns:1fr; padding-top:3.4rem;}
   .hero-photo-wrap{justify-content:flex-start;}
-  .hero-photo{width:min(78vw,330px);}
+  .hero-photo{width:min(76vw,300px);}
   .grid-cards,.stats,.collab-feature-grid{grid-template-columns:1fr;}
   .timeline-item{grid-template-columns:1fr;gap:.25rem;}
   .about-grid{grid-template-columns:1fr;}
