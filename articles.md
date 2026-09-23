@@ -1,121 +1,107 @@
 ## All research articles
 
-The list below follows the reverse-chronological ordering of my CV. Titles link to arXiv whenever an arXiv record is listed; the two Gravity Research Foundation essays link to their journal records.
+The list follows the reverse-chronological ordering of my CV. Each entry includes the journal reference when available, together with links to arXiv and, for many APS/JHEP papers, to the journal via DOI.
 
 ### 2026
 
-<div class="pub-compact"><span class="pub-number">1.</span> <a href="https://arxiv.org/abs/2609.07801">Logarithmic correction to the entropy of near-extremal higher-curvature black holes</a></div>
-<div class="pub-compact"><span class="pub-number">2.</span> <a href="https://arxiv.org/abs/2607.07790">Regular Black Holes in Nonlocal Quasitopological Gravity</a></div>
-<div class="pub-compact"><span class="pub-number">3.</span> <a href="https://arxiv.org/abs/2604.19860">Mutual Information from Modular Flow in General CFTs</a></div>
-<div class="pub-compact"><span class="pub-number">4.</span> <a href="https://arxiv.org/abs/2604.01436">Entanglement entropy and conformal bounds for d = 5 CFTs</a></div>
-<div class="pub-compact"><span class="pub-number">5.</span> <a href="https://arxiv.org/abs/2603.10110">Regular Geometries from Singular Matter in Quasi-Topological Gravity</a></div>
-
+<div class="pub-entry"><span class="pub-number">1.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2609.07801">Logarithmic correction to the entropy of near-extremal higher-curvature black holes</a><br><span class="pub-ref">[arXiv:2609.07801](https://arxiv.org/abs/2609.07801)</span></span></div>
+<div class="pub-entry"><span class="pub-number">2.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2607.07790">Regular Black Holes in Nonlocal Quasitopological Gravity</a><br><span class="pub-ref">[arXiv:2607.07790](https://arxiv.org/abs/2607.07790)</span></span></div>
+<div class="pub-entry"><span class="pub-number">3.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2604.19860">Mutual Information from Modular Flow in General CFTs</a><br><span class="pub-ref">[Phys. Rev. D 114, (2026) L041704](https://doi.org/10.1103/PhysRevD.114.L041704) · [arXiv:2604.19860](https://arxiv.org/abs/2604.19860)</span></span></div>
+<div class="pub-entry"><span class="pub-number">4.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2604.01436">Entanglement entropy and conformal bounds for d = 5 CFTs</a><br><span class="pub-ref">[JHEP 2608 (2026) 133](https://doi.org/10.1007/JHEP08(2026)133) · [arXiv:2604.01436](https://arxiv.org/abs/2604.01436)</span></span></div>
+<div class="pub-entry"><span class="pub-number">5.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2603.10110">Regular Geometries from Singular Matter in Quasi-Topological Gravity</a><br><span class="pub-ref">[Phys. Rev. D 114, (2026) 024070](https://doi.org/10.1103/PhysRevD.114.024070) · [arXiv:2603.10110](https://arxiv.org/abs/2603.10110)</span></span></div>
 ### 2025
 
-<div class="pub-compact"><span class="pub-number">6.</span> <a href="https://arxiv.org/abs/2512.19796">Buchdahl limits in theories with regular black holes</a></div>
-<div class="pub-compact"><span class="pub-number">7.</span> <a href="https://arxiv.org/abs/2510.25823">Birkhoff implies Quasi-topological</a></div>
-<div class="pub-compact"><span class="pub-number">8.</span> <a href="https://arxiv.org/abs/2509.19016">Regular black hole formation in four-dimensional non-polynomial gravities</a></div>
-<div class="pub-compact"><span class="pub-number">9.</span> <a href="https://arxiv.org/abs/2505.09680">Regular black holes from Oppenheimer-Snyder collapse</a></div>
-<div class="pub-compact"><span class="pub-number">10.</span> <a href="https://arxiv.org/abs/2503.02930">On regular charged black holes in three dimensions</a></div>
-
+<div class="pub-entry"><span class="pub-number">6.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2512.19796">Buchdahl limits in theories with regular black holes</a><br><span class="pub-ref">[Phys. Rev. D 113, (2026) 084008](https://doi.org/10.1103/PhysRevD.113.084008) · [arXiv:2512.19796](https://arxiv.org/abs/2512.19796)</span></span></div>
+<div class="pub-entry"><span class="pub-number">7.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2510.25823">Birkhoff implies Quasi-topological</a><br><span class="pub-ref">Class. Quantum Grav. 43 095020 · [arXiv:2510.25823](https://arxiv.org/abs/2510.25823)</span></span></div>
+<div class="pub-entry"><span class="pub-number">8.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2509.19016">Regular black hole formation in four-dimensional non-polynomial gravities</a><br><span class="pub-ref">[Phys. Rev. D 113, (2026) 024019](https://doi.org/10.1103/PhysRevD.113.024019) · [arXiv:2509.19016](https://arxiv.org/abs/2509.19016)</span></span></div>
+<div class="pub-entry"><span class="pub-number">9.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2505.09680">Regular black holes from Oppenheimer-Snyder collapse</a><br><span class="pub-ref">[Phys. Rev. D 112, (2025) 064039](https://doi.org/10.1103/PhysRevD.112.064039) · [arXiv:2505.09680](https://arxiv.org/abs/2505.09680)</span></span></div>
+<div class="pub-entry"><span class="pub-number">10.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2503.02930">On regular charged black holes in three dimensions</a><br><span class="pub-ref">[JHEP 2508 (2025) 132](https://doi.org/10.1007/JHEP08(2025)132) · [arXiv:2503.02930](https://arxiv.org/abs/2503.02930)</span></span></div>
 ### 2024
 
-<div class="pub-compact"><span class="pub-number">11.</span> <a href="https://arxiv.org/abs/2412.02742">Dynamical Formation of Regular Black Holes</a></div>
-<div class="pub-compact"><span class="pub-number">12.</span> <a href="https://arxiv.org/abs/2412.02740">Regular black holes from thin-shell collapse</a></div>
-<div class="pub-compact"><span class="pub-number">13.</span> <a href="https://arxiv.org/abs/2409.19485">Higher-dimensional Willmore energy as holographic entanglement entropy</a></div>
-<div class="pub-compact"><span class="pub-number">14.</span> <a href="https://arxiv.org/abs/2409.03821">Long-distance N-partite information for fermionic CFTs</a></div>
-<div class="pub-compact"><span class="pub-number">15.</span> <a href="https://arxiv.org/abs/2409.00648">Kasner Eons in Lovelock black holes</a></div>
-<div class="pub-compact"><span class="pub-number">16.</span> <a href="https://arxiv.org/abs/2403.04827">Regular black holes from pure gravity</a></div>
-<div class="pub-compact"><span class="pub-number">17.</span> <a href="https://arxiv.org/abs/2402.14912">Kasner Epochs, Eras and Eons</a></div>
-
+<div class="pub-entry"><span class="pub-number">11.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2412.02742">Dynamical Formation of Regular Black Holes</a><br><span class="pub-ref">[Phys. Rev. Lett. 134, 181401 (2025)](https://doi.org/10.1103/PhysRevLett.134.181401) · [arXiv:2412.02742](https://arxiv.org/abs/2412.02742)</span></span></div>
+<div class="pub-entry"><span class="pub-number">12.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2412.02740">Regular black holes from thin-shell collapse</a><br><span class="pub-ref">[Phys. Rev. D 111, (2025) 104009](https://doi.org/10.1103/PhysRevD.111.104009) · [arXiv:2412.02740](https://arxiv.org/abs/2412.02740)</span></span></div>
+<div class="pub-entry"><span class="pub-number">13.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2409.19485">Higher-dimensional Willmore energy as holographic entanglement entropy</a><br><span class="pub-ref">[JHEP 2501 (2025) 081](https://doi.org/10.1007/JHEP01(2025)081) · [arXiv:2409.19485](https://arxiv.org/abs/2409.19485)</span></span></div>
+<div class="pub-entry"><span class="pub-number">14.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2409.03821">Long-distance N-partite information for fermionic CFTs</a><br><span class="pub-ref">[JHEP 2412 (2024) 178](https://doi.org/10.1007/JHEP12(2024)178) · [arXiv:2409.03821](https://arxiv.org/abs/2409.03821)</span></span></div>
+<div class="pub-entry"><span class="pub-number">15.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2409.00648">Kasner Eons in Lovelock black holes</a><br><span class="pub-ref">[Phys. Rev. D 110, (2024) 124015](https://doi.org/10.1103/PhysRevD.110.124015) · [arXiv:2409.00648](https://arxiv.org/abs/2409.00648)</span></span></div>
+<div class="pub-entry"><span class="pub-number">16.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2403.04827">Regular black holes from pure gravity</a><br><span class="pub-ref">Phys. Lett. B 861 (2025), 139260 · [arXiv:2403.04827](https://arxiv.org/abs/2403.04827)</span></span></div>
+<div class="pub-entry"><span class="pub-number">17.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2402.14912">Kasner Epochs, Eras and Eons</a><br><span class="pub-ref">[Phys. Rev. D 110, L041503](https://doi.org/10.1103/PhysRevD.110.L041503) · [arXiv:2402.14912](https://arxiv.org/abs/2402.14912)</span></span></div>
 ### 2023
 
-<div class="pub-compact"><span class="pub-number">18.</span> <a href="https://arxiv.org/abs/2312.04637">Non-Local Massive Gravity from Einstein Gravity</a></div>
-<div class="pub-compact"><span class="pub-number">19.</span> <a href="https://arxiv.org/abs/2310.09333">Aspects of higher-curvature gravities with covariant derivatives</a></div>
-<div class="pub-compact"><span class="pub-number">20.</span> <a href="https://arxiv.org/abs/2307.05164">Conformal bounds in three dimensions from entanglement entropy</a></div>
-<div class="pub-compact"><span class="pub-number">21.</span> <a href="https://arxiv.org/abs/2306.02924">On the stability of Einsteinian Cubic Gravity black holes in EFT</a></div>
-<div class="pub-compact"><span class="pub-number">22.</span> <a href="https://arxiv.org/abs/2305.13361">Generalized Symmetries For Generalized Gravitons</a></div>
-
+<div class="pub-entry"><span class="pub-number">18.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2312.04637">Non-Local Massive Gravity from Einstein Gravity</a><br><span class="pub-ref">[Phys. Rev. Lett. 132, 191402 (2024)](https://doi.org/10.1103/PhysRevLett.132.191402) · [arXiv:2312.04637](https://arxiv.org/abs/2312.04637)</span></span></div>
+<div class="pub-entry"><span class="pub-number">19.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2310.09333">Aspects of higher-curvature gravities with covariant derivatives</a><br><span class="pub-ref">[Phys. Rev. D 108 (2023) 124075](https://doi.org/10.1103/PhysRevD.108.124075) · [arXiv:2310.09333](https://arxiv.org/abs/2310.09333)</span></span></div>
+<div class="pub-entry"><span class="pub-number">20.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2307.05164">Conformal bounds in three dimensions from entanglement entropy</a><br><span class="pub-ref">[Phys. Rev. Lett. 131, 171601 (2023)](https://doi.org/10.1103/PhysRevLett.131.171601) · [arXiv:2307.05164](https://arxiv.org/abs/2307.05164)</span></span></div>
+<div class="pub-entry"><span class="pub-number">21.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2306.02924">On the stability of Einsteinian Cubic Gravity black holes in EFT</a><br><span class="pub-ref">Class. Quantum Grav. 41 137001 · [arXiv:2306.02924](https://arxiv.org/abs/2306.02924)</span></span></div>
+<div class="pub-entry"><span class="pub-number">22.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2305.13361">Generalized Symmetries For Generalized Gravitons</a><br><span class="pub-ref">[Phys. Rev. Lett. 131, 111603 (2023)](https://doi.org/10.1103/PhysRevLett.131.111603) · [arXiv:2305.13361](https://arxiv.org/abs/2305.13361)</span></span></div>
 ### 2022
 
-<div class="pub-compact"><span class="pub-number">23.</span> <a href="https://arxiv.org/abs/2212.00637">Electromagnetic Generalized Quasi-topological gravities in (2 + 1) dimensions</a></div>
-<div class="pub-compact"><span class="pub-number">24.</span> <a href="https://arxiv.org/abs/2209.14311">Aspects of N-partite information in conformal field theories</a></div>
-<div class="pub-compact"><span class="pub-number">25.</span> <a href="https://arxiv.org/abs/2204.13421">Higher-curvature Gravities from Braneworlds and the Holographic c-theorem</a></div>
-<div class="pub-compact"><span class="pub-number">26.</span> <a href="https://arxiv.org/abs/2203.05589">Generalized quasi-topological gravities: the whole shebang</a></div>
-<div class="pub-compact"><span class="pub-number">27.</span> <a href="https://arxiv.org/abs/2203.04325">A universal feature of charged entanglement entropy</a></div>
-<div class="pub-compact"><span class="pub-number">28.</span> <a href="https://arxiv.org/abs/2201.07266">Aspects of three-dimensional higher-curvature gravities</a></div>
-
+<div class="pub-entry"><span class="pub-number">23.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2212.00637">Electromagnetic Generalized Quasi-topological gravities in (2 + 1) dimensions</a><br><span class="pub-ref">[Phys. Rev. D 107 (2023) 064050](https://doi.org/10.1103/PhysRevD.107.064050) · [arXiv:2212.00637](https://arxiv.org/abs/2212.00637)</span></span></div>
+<div class="pub-entry"><span class="pub-number">24.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2209.14311">Aspects of N-partite information in conformal field theories</a><br><span class="pub-ref">[JHEP 2303 (2023) 246](https://doi.org/10.1007/JHEP03(2023)246) · [arXiv:2209.14311](https://arxiv.org/abs/2209.14311)</span></span></div>
+<div class="pub-entry"><span class="pub-number">25.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2204.13421">Higher-curvature Gravities from Braneworlds and the Holographic c-theorem</a><br><span class="pub-ref">[Phys. Rev. D 106 (2022) 044012](https://doi.org/10.1103/PhysRevD.106.044012) · [arXiv:2204.13421](https://arxiv.org/abs/2204.13421)</span></span></div>
+<div class="pub-entry"><span class="pub-number">26.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2203.05589">Generalized quasi-topological gravities: the whole shebang</a><br><span class="pub-ref">Class. Quantum Grav. 40 1, 015004 · [arXiv:2203.05589](https://arxiv.org/abs/2203.05589)</span></span></div>
+<div class="pub-entry"><span class="pub-number">27.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2203.04325">A universal feature of charged entanglement entropy</a><br><span class="pub-ref">[Phys. Rev. Lett. 129, 021601 (2022)](https://doi.org/10.1103/PhysRevLett.129.021601) · [arXiv:2203.04325](https://arxiv.org/abs/2203.04325)</span></span></div>
+<div class="pub-entry"><span class="pub-number">28.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2201.07266">Aspects of three-dimensional higher-curvature gravities</a><br><span class="pub-ref">Class. Quantum Grav. 39 125002 · [arXiv:2201.07266](https://arxiv.org/abs/2201.07266)</span></span></div>
 ### 2021
 
-<div class="pub-compact"><span class="pub-number">29.</span> <a href="https://arxiv.org/abs/2109.09179">Tripartite information at long distances</a></div>
-<div class="pub-compact"><span class="pub-number">30.</span> <a href="https://arxiv.org/abs/2107.12394">Disks maximize the entanglement entropy in 2 + 1 dimensions</a></div>
-<div class="pub-compact"><span class="pub-number">31.</span> <a href="https://arxiv.org/abs/2105.11464">Is the EMI model a QFT? An inquiry on the space of allowed entropy functions</a></div>
-<div class="pub-compact"><span class="pub-number">32.</span> <a href="https://arxiv.org/abs/2104.10172">Regular black holes in three dimensions</a></div>
-
+<div class="pub-entry"><span class="pub-number">29.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2109.09179">Tripartite information at long distances</a><br><span class="pub-ref">SciPost Phys. 12, 153 (2022) · [arXiv:2109.09179](https://arxiv.org/abs/2109.09179)</span></span></div>
+<div class="pub-entry"><span class="pub-number">30.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2107.12394">Disks maximize the entanglement entropy in 2 + 1 dimensions</a><br><span class="pub-ref">[JHEP 2110 (2021) 179](https://doi.org/10.1007/JHEP10(2021)179) · [arXiv:2107.12394](https://arxiv.org/abs/2107.12394)</span></span></div>
+<div class="pub-entry"><span class="pub-number">31.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2105.11464">Is the EMI model a QFT? An inquiry on the space of allowed entropy functions</a><br><span class="pub-ref">[JHEP 2108 (2021) 084](https://doi.org/10.1007/JHEP08(2021)084) · [arXiv:2105.11464](https://arxiv.org/abs/2105.11464)</span></span></div>
+<div class="pub-entry"><span class="pub-number">32.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2104.10172">Regular black holes in three dimensions</a><br><span class="pub-ref">[Phys. Rev. D 104, L021501](https://doi.org/10.1103/PhysRevD.104.L021501) · [arXiv:2104.10172](https://arxiv.org/abs/2104.10172)</span></span></div>
 ### 2020
 
-<div class="pub-compact"><span class="pub-number">33.</span> <a href="https://arxiv.org/abs/2012.14033">Holographic entanglement entropy for perturbative higher-curvature gravities</a></div>
-<div class="pub-compact"><span class="pub-number">34.</span> <a href="https://arxiv.org/abs/2008.11373">Reflected entropy for free scalars</a></div>
-<div class="pub-compact"><span class="pub-number">35.</span> <a href="https://arxiv.org/abs/2004.09598">Slowly rotating black holes in Einsteinian cubic gravity</a></div>
-<div class="pub-compact"><span class="pub-number">36.</span> <a href="https://arxiv.org/abs/2003.09546">Reflected entropy, symmetries and free fermions</a></div>
-<div class="pub-compact"><span class="pub-number">37.</span> <a href="https://arxiv.org/abs/2001.10020">Partition functions on slightly squashed spheres and flux parameters</a></div>
-
+<div class="pub-entry"><span class="pub-number">33.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2012.14033">Holographic entanglement entropy for perturbative higher-curvature gravities</a><br><span class="pub-ref">[JHEP 2104 (2021) 145](https://doi.org/10.1007/JHEP04(2021)145) · [arXiv:2012.14033](https://arxiv.org/abs/2012.14033)</span></span></div>
+<div class="pub-entry"><span class="pub-number">34.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2008.11373">Reflected entropy for free scalars</a><br><span class="pub-ref">[JHEP 2011 (2020) 148](https://doi.org/10.1007/JHEP11(2020)148) · [arXiv:2008.11373](https://arxiv.org/abs/2008.11373)</span></span></div>
+<div class="pub-entry"><span class="pub-number">35.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2004.09598">Slowly rotating black holes in Einsteinian cubic gravity</a><br><span class="pub-ref">[Phys. Rev. D 102 (2020) 084001](https://doi.org/10.1103/PhysRevD.102.084001) · [arXiv:2004.09598](https://arxiv.org/abs/2004.09598)</span></span></div>
+<div class="pub-entry"><span class="pub-number">36.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2003.09546">Reflected entropy, symmetries and free fermions</a><br><span class="pub-ref">[JHEP 2005 (2020) 103](https://doi.org/10.1007/JHEP05(2020)103) · [arXiv:2003.09546](https://arxiv.org/abs/2003.09546)</span></span></div>
+<div class="pub-entry"><span class="pub-number">37.</span> <span><a class="pub-title" href="https://arxiv.org/abs/2001.10020">Partition functions on slightly squashed spheres and flux parameters</a><br><span class="pub-ref">[JHEP 2004 (2020) 123](https://doi.org/10.1007/JHEP04(2020)123) · [arXiv:2001.10020](https://arxiv.org/abs/2001.10020)</span></span></div>
 ### 2019
 
-<div class="pub-compact"><span class="pub-number">38.</span> <a href="https://arxiv.org/abs/1909.07983">(Generalized) quasi-topological gravities at all orders</a></div>
-<div class="pub-compact"><span class="pub-number">39.</span> <a href="https://arxiv.org/abs/1908.03577">Complexity measures in QFT and constrained geometric actions</a></div>
-<div class="pub-compact"><span class="pub-number">40.</span> <a href="https://doi.org/10.1142/S0218271819440085">Cosmic inflation without inflaton</a></div>
-<div class="pub-compact"><span class="pub-number">41.</span> <a href="https://arxiv.org/abs/1906.00987">All higher-curvature gravities as Generalized quasi-topological gravities</a></div>
-<div class="pub-compact"><span class="pub-number">42.</span> <a href="https://arxiv.org/abs/1904.11495">Generalizing the entanglement entropy of singular regions in conformal field theories</a></div>
-
+<div class="pub-entry"><span class="pub-number">38.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1909.07983">(Generalized) quasi-topological gravities at all orders</a><br><span class="pub-ref">Class. Quantum Grav. 37 (2019) 015002 · [arXiv:1909.07983](https://arxiv.org/abs/1909.07983)</span></span></div>
+<div class="pub-entry"><span class="pub-number">39.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1908.03577">Complexity measures in QFT and constrained geometric actions</a><br><span class="pub-ref">[JHEP 2109 (2021) 200](https://doi.org/10.1007/JHEP09(2021)200) · [arXiv:1908.03577](https://arxiv.org/abs/1908.03577)</span></span></div>
+<div class="pub-entry"><span class="pub-number">40.</span> <span><a class="pub-title" href="https://doi.org/10.1142/S0218271819440085">Cosmic inflation without inflaton</a><br><span class="pub-ref">[Int.J.Mod.Phys. D28 (2019) no.14, 1944008 . [Gravity Research Foundation 2019 Awards Essay]](https://doi.org/10.1142/S0218271819440085)</span></span></div>
+<div class="pub-entry"><span class="pub-number">41.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1906.00987">All higher-curvature gravities as Generalized quasi-topological gravities</a><br><span class="pub-ref">[JHEP 1911 (2019) 062](https://doi.org/10.1007/JHEP11(2019)062) · [arXiv:1906.00987](https://arxiv.org/abs/1906.00987)</span></span></div>
+<div class="pub-entry"><span class="pub-number">42.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1904.11495">Generalizing the entanglement entropy of singular regions in conformal field theories</a><br><span class="pub-ref">[JHEP 1908 (2019) 069](https://doi.org/10.1007/JHEP08(2019)069) · [arXiv:1904.11495](https://arxiv.org/abs/1904.11495)</span></span></div>
 ### 2018
 
-<div class="pub-compact"><span class="pub-number">43.</span> <a href="https://arxiv.org/abs/1812.11187">Geometric Inflation</a></div>
-<div class="pub-compact"><span class="pub-number">44.</span> <a href="https://arxiv.org/abs/1808.02052">Universality of squashed-sphere partition functions</a></div>
-<div class="pub-compact"><span class="pub-number">45.</span> <a href="https://arxiv.org/abs/1808.01671">NUTs and bolts beyond Lovelock</a></div>
-<div class="pub-compact"><span class="pub-number">46.</span> <a href="https://arxiv.org/abs/1802.00018">Holographic studies of Einsteinian cubic gravity</a></div>
-
+<div class="pub-entry"><span class="pub-number">43.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1812.11187">Geometric Inflation</a><br><span class="pub-ref">Phys. Lett. B 802 (2020), 135242 · [arXiv:1812.11187](https://arxiv.org/abs/1812.11187)</span></span></div>
+<div class="pub-entry"><span class="pub-number">44.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1808.02052">Universality of squashed-sphere partition functions</a><br><span class="pub-ref">[Phys. Rev. Lett. 122, 071602 (2019)](https://doi.org/10.1103/PhysRevLett.122.071602) · [arXiv:1808.02052](https://arxiv.org/abs/1808.02052)</span></span></div>
+<div class="pub-entry"><span class="pub-number">45.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1808.01671">NUTs and bolts beyond Lovelock</a><br><span class="pub-ref">[JHEP 1810 (2018) 095](https://doi.org/10.1007/JHEP10(2018)095) · [arXiv:1808.01671](https://arxiv.org/abs/1808.01671)</span></span></div>
+<div class="pub-entry"><span class="pub-number">46.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1802.00018">Holographic studies of Einsteinian cubic gravity</a><br><span class="pub-ref">[JHEP 1803 (2018) 150](https://doi.org/10.1007/JHEP03(2018)150) · [arXiv:1802.00018](https://arxiv.org/abs/1802.00018)</span></span></div>
 ### 2017
 
-<div class="pub-compact"><span class="pub-number">47.</span> <a href="https://arxiv.org/abs/1711.00391">Echoes of Kerr-like wormholes</a></div>
-<div class="pub-compact"><span class="pub-number">48.</span> <a href="https://doi.org/10.1142/S0218271817430246">Universally stable black holes</a></div>
-<div class="pub-compact"><span class="pub-number">49.</span> <a href="https://arxiv.org/abs/1705.00292">Comments on Squashed-sphere Partition Functions</a></div>
-<div class="pub-compact"><span class="pub-number">50.</span> <a href="https://arxiv.org/abs/1704.02967">Universal black hole stability in four dimensions</a></div>
-<div class="pub-compact"><span class="pub-number">51.</span> <a href="https://arxiv.org/abs/1703.04625">On black holes in higher-derivative gravities</a></div>
-<div class="pub-compact"><span class="pub-number">52.</span> <a href="https://arxiv.org/abs/1703.03413">Cubic trihedral corner entanglement for a free scalar</a></div>
-
+<div class="pub-entry"><span class="pub-number">47.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1711.00391">Echoes of Kerr-like wormholes</a><br><span class="pub-ref">[Phys. Rev. D 97, (2018) 024040](https://doi.org/10.1103/PhysRevD.97.024040) · [arXiv:1711.00391](https://arxiv.org/abs/1711.00391)</span></span></div>
+<div class="pub-entry"><span class="pub-number">48.</span> <span><a class="pub-title" href="https://doi.org/10.1142/S0218271817430246">Universally stable black holes</a><br><span class="pub-ref">[Int.J.Mod.Phys. D26 (2017) no.12, 1743024. [Gravity Research Foundation 2017 Awards Essay]](https://doi.org/10.1142/S0218271817430246)</span></span></div>
+<div class="pub-entry"><span class="pub-number">49.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1705.00292">Comments on Squashed-sphere Partition Functions</a><br><span class="pub-ref">[JHEP 1707 (2017) 093](https://doi.org/10.1007/JHEP07(2017)093) · [arXiv:1705.00292](https://arxiv.org/abs/1705.00292)</span></span></div>
+<div class="pub-entry"><span class="pub-number">50.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1704.02967">Universal black hole stability in four dimensions</a><br><span class="pub-ref">[Phys. Rev. D 96, (2017) 024034](https://doi.org/10.1103/PhysRevD.96.024034) · [arXiv:1704.02967](https://arxiv.org/abs/1704.02967)</span></span></div>
+<div class="pub-entry"><span class="pub-number">51.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1703.04625">On black holes in higher-derivative gravities</a><br><span class="pub-ref">Class. Quantum Grav. 34 (2017) 175008 · [arXiv:1703.04625](https://arxiv.org/abs/1703.04625)</span></span></div>
+<div class="pub-entry"><span class="pub-number">52.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1703.03413">Cubic trihedral corner entanglement for a free scalar</a><br><span class="pub-ref">[Phys. Rev. B 96, (2017) no.3, 035117](https://doi.org/10.1103/PhysRevB.96.035117) · [arXiv:1703.03413](https://arxiv.org/abs/1703.03413)</span></span></div>
 ### 2016
 
-<div class="pub-compact"><span class="pub-number">53.</span> <a href="https://arxiv.org/abs/1612.04374">Entanglement equilibrium for higher order gravity</a></div>
-<div class="pub-compact"><span class="pub-number">54.</span> <a href="https://arxiv.org/abs/1611.01846">Holographic torus entanglement and its RG flow</a></div>
-<div class="pub-compact"><span class="pub-number">55.</span> <a href="https://arxiv.org/abs/1610.08519">Aspects of general higher-order gravities</a></div>
-<div class="pub-compact"><span class="pub-number">56.</span> <a href="https://arxiv.org/abs/1610.08019">Four-dimensional black holes in Einsteinian cubic gravity</a></div>
-<div class="pub-compact"><span class="pub-number">57.</span> <a href="https://arxiv.org/abs/1607.06463">Einsteinian cubic gravity</a></div>
-<div class="pub-compact"><span class="pub-number">58.</span> <a href="https://arxiv.org/abs/1602.07310">f(Lovelock) theories of gravity</a></div>
-
+<div class="pub-entry"><span class="pub-number">53.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1612.04374">Entanglement equilibrium for higher order gravity</a><br><span class="pub-ref">[Phys. Rev. D 95 (2017) 046003](https://doi.org/10.1103/PhysRevD.95.046003) · [arXiv:1612.04374](https://arxiv.org/abs/1612.04374)</span></span></div>
+<div class="pub-entry"><span class="pub-number">54.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1611.01846">Holographic torus entanglement and its RG flow</a><br><span class="pub-ref">[Phys. Rev. D 95 (2017) 066007](https://doi.org/10.1103/PhysRevD.95.066007) · [arXiv:1611.01846](https://arxiv.org/abs/1611.01846)</span></span></div>
+<div class="pub-entry"><span class="pub-number">55.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1610.08519">Aspects of general higher-order gravities</a><br><span class="pub-ref">[Phys. Rev. D 95 (2017) 044010](https://doi.org/10.1103/PhysRevD.95.044010) · [arXiv:1610.08519](https://arxiv.org/abs/1610.08519)</span></span></div>
+<div class="pub-entry"><span class="pub-number">56.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1610.08019">Four-dimensional black holes in Einsteinian cubic gravity</a><br><span class="pub-ref">[Phys. Rev. D 94 (2016) 124051](https://doi.org/10.1103/PhysRevD.94.124051) · [arXiv:1610.08019](https://arxiv.org/abs/1610.08019)</span></span></div>
+<div class="pub-entry"><span class="pub-number">57.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1607.06463">Einsteinian cubic gravity</a><br><span class="pub-ref">[Phys. Rev. D 94 (2016), 104005](https://doi.org/10.1103/PhysRevD.94.104005) · [arXiv:1607.06463](https://arxiv.org/abs/1607.06463)</span></span></div>
+<div class="pub-entry"><span class="pub-number">58.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1602.07310">f(Lovelock) theories of gravity</a><br><span class="pub-ref">[JHEP 1604 (2016) 028](https://doi.org/10.1007/JHEP04(2016)028) · [arXiv:1602.07310](https://arxiv.org/abs/1602.07310)</span></span></div>
 ### 2015
 
-<div class="pub-compact"><span class="pub-number">59.</span> <a href="https://arxiv.org/abs/1511.04077">Bounds on corner entanglement in quantum critical states</a></div>
-<div class="pub-compact"><span class="pub-number">60.</span> <a href="https://arxiv.org/abs/1508.00587">Universal entanglement for higher dimensional cones</a></div>
-<div class="pub-compact"><span class="pub-number">61.</span> <a href="https://arxiv.org/abs/1507.06997">Universal corner entanglement from twist operators</a></div>
-<div class="pub-compact"><span class="pub-number">62.</span> <a href="https://arxiv.org/abs/1505.07842">Corner contributions to holographic entanglement entropy</a></div>
-<div class="pub-compact"><span class="pub-number">63.</span> <a href="https://arxiv.org/abs/1505.04804">Universality of corner entanglement in conformal field theories</a></div>
-<div class="pub-compact"><span class="pub-number">64.</span> <a href="https://arxiv.org/abs/1503.01044">Resolution of SU(2) monopole singularities by oxidation</a></div>
-
+<div class="pub-entry"><span class="pub-number">59.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1511.04077">Bounds on corner entanglement in quantum critical states</a><br><span class="pub-ref">[Phys. Rev. B 93 (2016), 045131](https://doi.org/10.1103/PhysRevB.93.045131) · [arXiv:1511.04077](https://arxiv.org/abs/1511.04077)</span></span></div>
+<div class="pub-entry"><span class="pub-number">60.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1508.00587">Universal entanglement for higher dimensional cones</a><br><span class="pub-ref">[JHEP 1512 (2015) 168](https://doi.org/10.1007/JHEP12(2015)168) · [arXiv:1508.00587](https://arxiv.org/abs/1508.00587)</span></span></div>
+<div class="pub-entry"><span class="pub-number">61.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1507.06997">Universal corner entanglement from twist operators</a><br><span class="pub-ref">[JHEP 1509 (2015) 091](https://doi.org/10.1007/JHEP09(2015)091) · [arXiv:1507.06997](https://arxiv.org/abs/1507.06997)</span></span></div>
+<div class="pub-entry"><span class="pub-number">62.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1505.07842">Corner contributions to holographic entanglement entropy</a><br><span class="pub-ref">[JHEP 1508 (2015) 068](https://doi.org/10.1007/JHEP08(2015)068) · [arXiv:1505.07842](https://arxiv.org/abs/1505.07842)</span></span></div>
+<div class="pub-entry"><span class="pub-number">63.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1505.04804">Universality of corner entanglement in conformal field theories</a><br><span class="pub-ref">[Phys. Rev. Lett. 115, 021602 (2015)](https://doi.org/10.1103/PhysRevLett.115.021602) · [arXiv:1505.04804](https://arxiv.org/abs/1505.04804)</span></span></div>
+<div class="pub-entry"><span class="pub-number">64.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1503.01044">Resolution of SU(2) monopole singularities by oxidation</a><br><span class="pub-ref">Phys. Lett. B 746 (2015), 109 · [arXiv:1503.01044](https://arxiv.org/abs/1503.01044)</span></span></div>
 ### 2014
 
-<div class="pub-compact"><span class="pub-number">65.</span> <a href="https://arxiv.org/abs/1412.5547">Non-extremal branes</a></div>
-<div class="pub-compact"><span class="pub-number">66.</span> <a href="https://arxiv.org/abs/1410.4160">N = 2 Einstein-Yang-Mills’ static two-center solutions</a></div>
-<div class="pub-compact"><span class="pub-number">67.</span> <a href="https://arxiv.org/abs/1408.6380">Higher-curvature corrections to holographic entanglement entropy in geometries with hyperscaling violation</a></div>
-
+<div class="pub-entry"><span class="pub-number">65.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1412.5547">Non-extremal branes</a><br><span class="pub-ref">Phys. Lett. B 743 (2015), 301-305 · [arXiv:1412.5547](https://arxiv.org/abs/1412.5547)</span></span></div>
+<div class="pub-entry"><span class="pub-number">66.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1410.4160">N = 2 Einstein-Yang-Mills’ static two-center solutions</a><br><span class="pub-ref">[JHEP 1412 (2014) 093](https://doi.org/10.1007/JHEP12(2014)093) · [arXiv:1410.4160](https://arxiv.org/abs/1410.4160)</span></span></div>
+<div class="pub-entry"><span class="pub-number">67.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1408.6380">Higher-curvature corrections to holographic entanglement entropy in geometries with hyperscaling violation</a><br><span class="pub-ref">[JHEP 1412 (2014) 078](https://doi.org/10.1007/JHEP12(2014)078) · [arXiv:1408.6380](https://arxiv.org/abs/1408.6380)</span></span></div>
 ### 2013
 
-<div class="pub-compact"><span class="pub-number">68.</span> <a href="https://arxiv.org/abs/1310.6379">The violation of the No-Hair Conjecture in four-dimensional ungauged Supergravity</a></div>
-<div class="pub-compact"><span class="pub-number">69.</span> <a href="https://arxiv.org/abs/1305.5488">Black holes and equivariant charge vectors in N=2,d=4 supergravity</a></div>
-<div class="pub-compact"><span class="pub-number">70.</span> <a href="https://arxiv.org/abs/1304.8079">Non-perturbative black holes in Type-IIA String Theory vs. the No-Hair conjecture</a></div>
-
+<div class="pub-entry"><span class="pub-number">68.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1310.6379">The violation of the No-Hair Conjecture in four-dimensional ungauged Supergravity</a><br><span class="pub-ref">Class. Quantum Grav. 31 (2014) 145005 · [arXiv:1310.6379](https://arxiv.org/abs/1310.6379)</span></span></div>
+<div class="pub-entry"><span class="pub-number">69.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1305.5488">Black holes and equivariant charge vectors in N=2,d=4 supergravity</a><br><span class="pub-ref">[JHEP 1309 (2013) 010](https://doi.org/10.1007/JHEP09(2013)010) · [arXiv:1305.5488](https://arxiv.org/abs/1305.5488)</span></span></div>
+<div class="pub-entry"><span class="pub-number">70.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1304.8079">Non-perturbative black holes in Type-IIA String Theory vs. the No-Hair conjecture</a><br><span class="pub-ref">Class. Quantum Grav. 31 (2013) 015023 · [arXiv:1304.8079](https://arxiv.org/abs/1304.8079)</span></span></div>
 ### 2012
 
-<div class="pub-compact"><span class="pub-number">71.</span> <a href="https://arxiv.org/abs/1212.4826">On hvLif-like solutions in gauged Supergravity</a></div>
-<div class="pub-compact"><span class="pub-number">72.</span> <a href="https://arxiv.org/abs/1210.2817">Quantum black holes in Type-IIA String Theory</a></div>
-<div class="pub-compact"><span class="pub-number">73.</span> <a href="https://arxiv.org/abs/1209.4047">Lifshitz-like solutions with hyperscaling violation in ungauged supergravity</a></div>
+<div class="pub-entry"><span class="pub-number">71.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1212.4826">On hvLif-like solutions in gauged Supergravity</a><br><span class="pub-ref">Eur. Phys. J. C (2014) 74:2684 · [arXiv:1212.4826](https://arxiv.org/abs/1212.4826)</span></span></div>
+<div class="pub-entry"><span class="pub-number">72.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1210.2817">Quantum black holes in Type-IIA String Theory</a><br><span class="pub-ref">[JHEP 1301 (2013) 089](https://doi.org/10.1007/JHEP01(2013)089) · [arXiv:1210.2817](https://arxiv.org/abs/1210.2817)</span></span></div>
+<div class="pub-entry"><span class="pub-number">73.</span> <span><a class="pub-title" href="https://arxiv.org/abs/1209.4047">Lifshitz-like solutions with hyperscaling violation in ungauged supergravity</a><br><span class="pub-ref">[JHEP 1301 (2013) 189](https://doi.org/10.1007/JHEP01(2013)189) · [arXiv:1209.4047](https://arxiv.org/abs/1209.4047)</span></span></div>
