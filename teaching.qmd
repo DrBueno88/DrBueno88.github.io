@@ -1,7 +1,5 @@
 ---
 title: "Teaching"
-subtitle: "Current teaching duties"
-description: "Current teaching duties"
 ---
 
 My current teaching is concentrated at the **Universitat de Barcelona**, with an additional open-teaching course at **UNED**.
