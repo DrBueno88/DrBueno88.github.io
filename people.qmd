@@ -1,0 +1,62 @@
+---
+title: "People"
+description: "Collaborators and student supervision"
+---
+
+Research is collaborative. The people below include long-standing collaborators, recent collaborators, and students whose projects I have supervised.
+
+## Collaborators
+
+<div class="collab-feature-grid">
+<div class="collab-feature"><h3><a href="https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/">Robie A. Hennigar</a></h3><p>A long-standing collaborator on higher-curvature gravity, black holes, regular geometries and related questions.</p></div>
+<div class="collab-feature"><h3><a href="https://portalinvestigacion.um.es/investigadores/2192303/detalle">Pablo A. Cano</a></h3><p>A long-standing collaborator on higher-curvature gravity, black-hole physics, holography and gravitational effective theories.</p></div>
+<div class="collab-feature"><h3><a href="https://www.yukawa.kyoto-u.ac.jp/en-GB/contents/people/people">Javier Moreno</a></h3><p>Recent collaborations span black holes, higher-curvature gravity, holography and entanglement.</p></div>
+<div class="collab-feature"><h3><a href="https://orcid.org/0000-0001-9562-8973">Ángel J. Murcia</a></h3><p>Recent collaborations include regular black holes, quasi-topological gravity and entanglement-related problems.</p></div>
+</div>
+
+### Other recent collaborators
+
+Since 2022, my papers have also included collaborations with **César A. Agón, Horacio Casini, Roberto Emparan, Guido van der Velde, Quim Llorens, Óscar Lasso Andino, Aitor Vicente-Cano, Adam F. García, Francesco Gentile, Alejandro Vilar López, Valentín Benedetti, Javier Magán, Alberto Rivadulla Sánchez, Mengqi Lu, Sergio E. Aguilar-Gutierrez, Giorgos Anastasiou, Ignacio J. Araya, Rodrigo Olea, Adem D. Piskin** and others.
+
+## PhD supervision
+
+<div class="timeline-item"><div class="timeline-date">2026–</div><div><strong>Matteo Marrone</strong><br>PhD in Theoretical Physics, ICCUB · Universitat de Barcelona</div></div>
+<div class="timeline-item"><div class="timeline-date">2026–</div><div><strong>Mikaela Carrasco Hidalgo</strong><br>PhD in Theoretical Physics, ICCUB · Universitat de Barcelona</div></div>
+<div class="timeline-item"><div class="timeline-date">2024–</div><div><strong>Aitor Vicente Cano</strong><br>PhD in Theoretical Physics, ICCUB · Universitat de Barcelona</div></div>
+<div class="timeline-item"><div class="timeline-date">2024</div><div><strong>Quim Llorens</strong><br>PhD, ICCUB · Universitat de Barcelona · co-supervised with Roberto Emparan<br><span class="muted">Brane-Worlds and Higher-Derivative Gravities · cum laude</span></div></div>
+<div class="timeline-item"><div class="timeline-date">2019</div><div><strong>Pablo A. Cano</strong><br>PhD, IFT UAM/CSIC · co-supervised with Tomás Ortín<br><span class="muted">Higher-Curvature Gravity, Black Holes and Holography · cum laude</span></div></div>
+
+## MSc supervision
+
+<div class="student-list">
+<div><strong>Bernat Garrofé i Pascual</strong><span> · Universitat de Barcelona · MSc in Theoretical Physics</span></div>
+<div><strong>Carlos O. Hunter</strong><span> · Universitat de Barcelona · <em>Newcomb’s Paradox as a Postselected Closed Timelike Curve</em></span></div>
+<div><strong>Adrià Olives Salmerón</strong><span> · Universitat de Barcelona · co-supervised with Carlos S. Shahbazi · <em>Magnetic geodesics on Brinkmann spacetimes from parallel spinors</em></span></div>
+<div><strong>Matteo Gabriel Marrone</strong><span> · Universitat de Barcelona · co-supervised with Robie A. Hennigar · <em>Regular black holes</em></span></div>
+<div><strong>Sami Calvo i Muñoz</strong><span> · Universitat de Barcelona · co-supervised with Ángel J. Murcia · <em>On extreme-mass-ratio mergers of spherical objects</em></span></div>
+<div><strong>Adam Fernández García</strong><span> · Universitat de Barcelona · 2024–2025 · <em>New conformal bounds in higher dimensions</em></span></div>
+<div><strong>Rubén García Llorente</strong><span> · Universitat de Barcelona · 2023–2024 · <em>Generalized quasi-topological gravities with covariant derivatives</em></span></div>
+<div><strong>Fereidoun Asadi</strong><span> · Munich University · 2022–2023 · <em>Black holes and cosmic censorship in general three-dimensional gravities</em></span></div>
+<div><strong>Víctor Cotonat Gracia</strong><span> · Universitat de Barcelona · 2022–2023 · <em>Mutual Information (and beyond) for free fields</em></span></div>
+<div><strong>Pablo A. Cano</strong><span> · IFT UAM/CSIC · 2015 · <em>f(Lovelock) theories of gravity</em></span></div>
+</div>
+
+## BSc supervision
+
+<div class="student-list">
+<div><strong>Gaietà de Casacuberta i Tarrida</strong><span> · Universitat de Barcelona · 2026 · current</span></div>
+<div><strong>Miquel Planes Vilar</strong><span> · Universitat de Barcelona · 2026 · current</span></div>
+<div><strong>Mònica Villaret Ribot</strong><span> · Universitat de Barcelona · 2026 · <em>The Penrose process</em></span></div>
+<div><strong>Jordi Ávila López</strong><span> · Universitat de Barcelona · 2026 · <em>Hawking radiation from different lenses</em></span></div>
+<div><strong>Sergi Dorado Andreu</strong><span> · Universitat de Barcelona · 2026 · <em>Simulating Cosmological Billiard Models</em></span></div>
+<div><strong>Roger Picañol Narbona</strong><span> · Universitat de Barcelona · 2025 · <em>Regular black holes</em></span></div>
+<div><strong>Miquel Farràs Busquets</strong><span> · Universitat de Barcelona · 2025 · <em>Buchdahl Limits Beyond General Relativity</em></span></div>
+<div><strong>Elisabet Vallejo Pagès</strong><span> · Universitat de Barcelona · 2024 · <em>Corrections to the Newtonian Potential</em></span></div>
+<div><strong>Pau Duran García</strong><span> · Universitat de Barcelona · 2024 · <em>Mutual Information for Free Fields</em></span></div>
+<div><strong>Arnau Clavaguera Viñals</strong><span> · Universitat de Barcelona · 2024 · <em>Extremality in Reissner–Nordström black holes</em></span></div>
+<div><strong>Emilio Rodríguez Amado</strong><span> · Universitat de Barcelona · 2023 · <em>Birkhoff’s theorem for Einstein gravity and beyond</em></span></div>
+<div><strong>Ferran Rodríguez Mascaró</strong><span> · Universitat de Barcelona · 2023 · <em>Holographic entanglement entropy</em></span></div>
+<div><strong>Fabricio Sergio Zevallos Rodriguez</strong><span> · Universidad Nacional de San Agustín de Arequipa · 2022–2023 · <em>Generalized Quasi-topological gravities</em></span></div>
+<div><strong>Renzo Kenyi Takagui Perez</strong><span> · Pontificia Universidad Católica del Perú · 2021–2022 · <em>Entanglement entropy in quantum field theory and holography</em></span></div>
+<div><strong>Javier Meana</strong><span> · Universidad de Oviedo · 2017 · co-supervised with Carlos Hoyos · <em>Holographic entanglement entropy</em></span></div>
+</div>
