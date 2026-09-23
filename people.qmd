@@ -1,7 +1,5 @@
 ---
 title: "People"
-subtitle: "Collaborators and student supervision"
-description: "Collaborators and student supervision"
 ---
 
 Research is collaborative. The people below include long-standing collaborators, recent collaborators, and students whose projects I have supervised.
@@ -16,11 +14,9 @@ Robie A. Hennigar · Pablo A. Cano · Javier Moreno · Ángel J. Murcia
 </div>
 
 
-Robie A. Hennigar, Pablo A. Cano, Javier Moreno and Ángel J. Murcia have been among my **main and most frequent collaborators**, spanning different stages of my career and a broad range of topics in gravitational physics, black holes, higher-curvature gravity, holography and quantum field theory. In particular, my collaborations with **Robie A. Hennigar** and **Pablo A. Cano** extend over many years and a substantial fraction of my work on higher-curvature gravity and black-hole physics.
+**Robie A. Hennigar, Pablo A. Cano, Javier Moreno and Ángel J. Murcia** have been among my main and most frequent collaborators, spanning different stages of my career and a broad range of topics in gravitational physics, black holes, higher-curvature gravity, holography and quantum field theory. In particular, my collaborations with **Robie A. Hennigar** and **Pablo A. Cano** extend over many years and cover a substantial fraction of my work on higher-curvature gravity and black-hole physics.
 
-### Other recent collaborators
-
-Since 2022, my papers have also included collaborations with **César A. Agón, Horacio Casini, Roberto Emparan, Guido van der Velde, Quim Llorens, Óscar Lasso Andino, Aitor Vicente-Cano, Adam F. García, Francesco Gentile, Alejandro Vilar López, Valentín Benedetti, Javier Magán, Alberto Rivadulla Sánchez, Mengqi Lu, Sergio E. Aguilar-Gutierrez, Giorgos Anastasiou, Ignacio J. Araya, Rodrigo Olea, Adem D. Piskin** and others.
+Other important historical collaborators include **C. S. Shahbazi, Horacio Casini, Guido van der Velde, William Witczak-Krempa, Óscar Lasso Andino, Tomás Ortín, Robert C. Myers** and **César Alfonso Agón**.
 
 ## PhD supervision
 
