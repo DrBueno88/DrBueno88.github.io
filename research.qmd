@@ -25,10 +25,20 @@ My research sits at the intersection of gravitation, black-hole physics, quantum
 <div class="stat"><strong>4000+</strong><span>citations</span></div>
 </div>
 
-::: {.callout-note .expandable-section collapse="true" title="All research articles"}
-{{< include articles.md >}}
-:::
+<details class="research-expander">
+<summary>All research articles</summary>
+<div class="research-expander-body" markdown="1">
 
-::: {.callout-note .expandable-section collapse="true" title="Talks, seminars and school lectures"}
+{{< include articles.md >}}
+
+</div>
+</details>
+
+<details class="research-expander">
+<summary>Talks, seminars and school lectures</summary>
+<div class="research-expander-body" markdown="1">
+
 {{< include talks.md >}}
-:::
+
+</div>
+</details>
