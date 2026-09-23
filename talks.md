@@ -2,38 +2,38 @@
 
 - **Regular black holes from pure (nonlocal) gravity** — Beyond the BH Horizon: New Frontiers in Holography and Gravity, Durham University, UK. July 2026..
 - **Conformal bounds from entanglement entropy** — School and Workshop on Advanced Aspects of QFT, Centro Atómico Bariloche, Argentina. May 2026..
-- **ECOs desde el abismo?** — III Simposio de Física Teórica y Computacional , Yachay Tech University, Yachay, Ecuador. January 2026..
+- **ECOs desde el abismo?** — III Simposio de Física Teórica y Computacional, Yachay Tech University, Yachay, Ecuador. January 2026..
 - **Regular black holes from pure gravity: lessons and perspectives** — GRASS-SYMBHOL Meeting, Hotel Carlos V, Toledo, Spain, November 2025..
 - **Dynamical formation of regular black holes** — Quantum gravity, Holography and Quantum Information, Federal University of Rio Grande do Norte, Natal, Brazil. July 2025..
 - **Dynamical formation of regular black holes** — Testing Aspects of General Relativity-IV, University of Lethbridge, Canada. July 2025..
 - **Dynamical formation of regular black holes** — Black holes and their symmetries, University of Tours, Tours, France. July 2025..
 - **Dynamical formation of regular black holes** — Gravity, Holography and Entanglement at UdeC-UCSC, Universidad de Concepción, Chile. April 2025..
-- **Spacetime Singularities** — II Simposio de Física Teórica y Computacional , Yachay Tech University, Yachay, Ecuador. January 2025..
+- **Spacetime Singularities** — II Simposio de Física Teórica y Computacional, Yachay Tech University, Yachay, Ecuador. January 2025..
 - **Spacetime singularities beyond GR** — GRASS-SYMBHOL Meeting, Hotel La Casa de Mudéjar, Segovia, Spain, October 2024..
 - **Regular black holes from pure gravity** — Spanish-Portuguese Relativity meeting, EREP 2024, Coimbra, Portugal. July 2024..
 - **Conformal bounds from entanglement** — Gauge theories, supergravity and superstrings, Centro de Ciencias Pedro Pascual, Benasque, Spain, June 2024..
 - **Regular black holes from pure gravity** — Gravity: challenges beyond general relativity, Universidad de Barcelona, Barcelona, Spain, May 2024..
-- **The mystery of black holes** — D´ıa mundial de la cuantica , Universidad Nacional Mayor de San Marcos, Lima, Peru, April 2024..
-- **Round table on quantum gravity** — Congreso Nacional de Estudiantes de Física 2024, University of Córdoba, Córdoba, Spain, March 2024. ..
+- **The mystery of black holes** — Día mundial de la cuántica, Universidad Nacional Mayor de San Marcos, Lima, Peru, April 2024..
+- **Round table on quantum gravity** — Congreso Nacional de Estudiantes de Física 2024, University of Córdoba, Córdoba, Spain, March 2024..
 - **Conformal bounds from entanglement** — Iberian Strings 2024, University of Porto, Porto, Portugal, January 2024..
 - **Conformal bounds from entanglement** — GRASS-SYMBHOL Meeting, Hotel Palacio de los Velada, Ávila, Spain, November 2023..
 - **Quantum gravity and holography** — I Congreso Andino de Estudiantes de Física 2023, Universidad Nacional del Altiplano, Puno, Peru, June 2023..
-- **Quantum field theory from entanglement** — Quantum Information meets Gravity - Recent developments and perspectives, University of Würzburg, W ¨ urzburg, Germany. March 2023. ¨.
+- **Quantum field theory from entanglement** — Quantum Information meets Gravity - Recent developments and perspectives, University of Würzburg, Würzburg, Germany. March 2023..
 - **Quantum field theory from entanglement** — ICCUB Winter Meeting, University of Barcelona, Barcelona, Spain. February 2023..
 - **Plans for future research: gravity and entanglement** — GRASS-SYMBHOL Meeting, Hospeder´ıa del Seminario, Cuenca, Spain. December 2022..
 - **Regular black holes in three dimensions** — Iberian Strings 2021, University of Aveiro, Aveiro, Portugal. September 2021. (webinar).
 - **Complexity measures in QFT and constrained geometric actions** — Iberian Strings 2020, Universidad de Santiago de Compostela, Santiago, Spain. January 2020..
-- **almond tree** — III GRASS family and friends Meeting, IFT UAM/CSIC, Madrid, Spain. December 2019. “Complexity measures in QFT and constrained geometric actions”.
+- **Complexity measures in QFT and constrained geometric actions** — III GRASS family and friends “almond tree” Meeting, IFT UAM/CSIC, Madrid, Spain. December 2019..
 - **(Generalized) Quasi-topological gravities** — Quantum Gravity in the Southern Cone VIII, Centro Atómico Bariloche - CECs Valdivia, Bariloche (Argentina) - Valdivia (Chile). December 2019..
 - **New results on the entanglement entropy of singular regions in CFTs** — Quantum Information and String Theory 2019, It from Qubit school/workshop, Yukawa Institute for Theoretical Physics, Kyoto University, Japan. June 2019..
 - **Universality from Einsteinian cubic gravity** — Gravity at UCEN 2019: Recent developments in Black Hole Physics and Cosmology, Universidad Central de Chile, Santiago de Chile, Chile. April 2019..
-- **almond tree** — II GRASS family and friends Meeting, IFT UAM/CSIC, Madrid, Spain. December 2018. “Entanglement in quantum field theories”.
+- **Entanglement in quantum field theories** — II GRASS family and friends “almond tree” Meeting, IFT UAM/CSIC, Madrid, Spain. December 2018..
 - **Universality from holographic higher-order gravities** — Spanish-Portuguese Relativity meeting, EREP 2018, Palencia, Spain. September 2018..
-- **almond tree** — GRASS family and friends Meeting, IFT UAM/CSIC, Madrid, Spain. December 2017. “Einsteinian cubic gravity, black holes and holography”.
+- **Einsteinian cubic gravity, black holes and holography** — GRASS family and friends “almond tree” Meeting, IFT UAM/CSIC, Madrid, Spain. December 2017..
 - **Entanglement equilibrium for higher-order gravity** — Spanish-Portuguese Relativity meeting, EREP 2017, Málaga, Spain. September 2017..
 - **Comments on squashed sphere partition functions** — 1st Endogamic microworkshop on Gravity, Supergravity and Superstrings, IFT UAM/CSIC, Madrid, Spain, May 2017..
 - **Holographic torus entanglement and its RG flow** — V Postgraduate Meeting On Theoretical Physics, Oviedo, Spain, November 2016..
-- **Aspects of corner entanglement** — It from Qubit Summer School, Perimeter Institute for Theoretical Physics, Waterloo, Canada. July 2016. . Gong Show.
+- **Aspects of corner entanglement** — It from Qubit Summer School, Perimeter Institute for Theoretical Physics, Waterloo, Canada. July 2016.. Gong Show.
 - **Aspects of corner entanglement** — Theory at sea 2016, Thermae Palace, Ostend, Belgium. May 2016..
 - **Universal entanglement of non-smooth surfaces** — 21st European Strings Workshop. KU Leuven, Leuven, Belgium. September 2015..
 - **Universal entanglement of singular surfaces** — Gravity - New perspectives from strings and higher dimensions. Centro de ciencias de Benasque Pedro Pascual, Benasque, Spain. July 2015..
@@ -52,13 +52,13 @@
 - **Dynamical formation of regular black holes** — ICTP, Trieste, Italy, August 2025..
 - **Dynamical formation of regular black holes** — Radboud University, Nijmegen, The Netherlands, June 2025..
 - **Dynamical formation of regular black holes** — ESPOCH (Escuela Superior Politécnica de Chimborazo), Riobamba, Ecuador, January 2025..
-- **Roundtable on singularities in physics** — Universidad Politécnica Nacional, Quito, Ecuador. January 2025. ..
+- **Roundtable on singularities in physics** — Universidad Politécnica Nacional, Quito, Ecuador. January 2025..
 - **Regular black holes from pure gravity** — Centro Atómico Bariloche, Bariloche, Argentina, May 2024..
 - **How many dimensions does spacetime have?** — AMARUN, Quito, Ecuador, March 2024..
 - **The mystery of black holes** — Universidad San Francisco de Quito, Quito, Ecuador, March 2024..
 - **Conformal bounds from entanglement** — Technion, Haifa, Israel, December 2023..
 - **Conformal bounds from entanglement** — Universidad de Barcelona, Barcelona, Spain, November 2023..
-- **Generalized Symmetries for Generalized Gravitons** — Universidad de Concepción, Concepción, Chile, June 2023..
+- **Generalized Symmetries for Generalized Gravitons** — Universidad de Concepción, Concepci on, Chile, June 2023..
 - **Quantum field theory from entanglement** — Centro Atómico Bariloche, Bariloche, Argentina, May 2023..
 - **Quantum field theory from entanglement** — Buenos Aires University, Buenos Aires, Argentina, May 2023..
 - **Quantum field theory from entanglement** — Montreal University, Montreal, Canada, April 2023..
@@ -68,7 +68,7 @@
 - **Aspects of three-dimensional higher-curvature gravities** — Utah State University, Utah, USA. February 2022. (webinar).
 - **Is the EMI model a QFT? An inquiry on the space of allowed entropy functions** — Universidad de Oviedo, Oviedo, Spain. February 2022..
 - **Is the EMI model a QFT? An inquiry on the space of allowed entropy functions** — CERN, Geneva, Switzerland. August 2021. (webinar).
-- **Regular black holes in three dimensions** — Universidad de Concepción, Concepción, Chile. June 2021. (webinar).
+- **Regular black holes in three dimensions** — Universidad de Concepción, Concepci on, Chile. June 2021. (webinar).
 - **Universality from higher-curvature gravities** — Universidad Autónoma de Puebla, Puebla, Mexico. April 2021. (webinar).
 - **Reflected entropy, free fields and symmetries** — Universidad de Barcelona, Barcelona, Spain. December 2020. (webinar).
 - **Reflected entropy, free fields and symmetries** — It from Qubit virtual seminars. October 2020. (webinar).
@@ -90,9 +90,9 @@
 
 ## School lectures
 
-- **Entanglement in quantum field theory** — Giambiagi School 2025, Universidad de Buenos Aires, Buenos Aires, Argentina. July 2025..
+- **Entanglement in quantum field theory** — Giambiagi School 2025, Universidad de Buenos Aires, Buenos Aires, Argentina. July 2025.
 - **General Relativity and beyond** — Escuela Politécnica Nacional, Quito, Ecuador. January 2023. Lectures on:.
 - **Universality from higher-curvature gravities** — Siembra-HoLAGrav winter meeting. Virtual Meeting. December 2020. Lecturer on:.
 - **Entanglement in quantum mechanics and quantum field theory** — II School of Holography and Entanglement Entropy, Universidad Nacional Mayor de San Marcos, Lima, Peru.´ Virtual Meeting. November 2020. Lecturer on:.
 - **Entanglement in quantum field theory** — Summer School on Superstring Theory and Related Topics, ICTP Virtual Meeting. Trieste, Italy. August 2020. Tutorial on:.
-- **Strings@ar Lectures on Advanced Topics of High Energy Physics. IAFE. Buenos Aires, Argentina. December 2018. “Einsteinian cubic gravity, black holes, holography and cosmology.**.
+- **** — Strings@ar Lectures on Advanced Topics of High Energy Physics. IAFE. Buenos Aires, Argentina. December 2018. “Einsteinian cubic gravity, black holes, holography and cosmology.
