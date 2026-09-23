@@ -1,7 +1,5 @@
 ---
 title: "Outreach"
-subtitle: "Science communication, videos and public engagement"
-description: "Science communication, videos and public engagement"
 ---
 
 Science communication has been a long-running part of my activity. I have spoken for general audiences about black holes, gravity, quantum theory, holography, spacetime singularities and the conceptual questions of fundamental physics.
