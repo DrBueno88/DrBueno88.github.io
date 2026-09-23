@@ -1,7 +1,5 @@
 ---
 title: "Research"
-subtitle: "Research themes, publications, talks and seminars"
-description: "Research themes, publications, talks and seminars"
 ---
 
 My research sits at the intersection of gravitation, black-hole physics, quantum field theory, holography and quantum information.
@@ -27,10 +25,10 @@ My research sits at the intersection of gravitation, black-hole physics, quantum
 <div class="stat"><strong>4000+</strong><span>citations</span></div>
 </div>
 
+::: {.callout-note .expandable-section collapse="true" title="All research articles"}
 {{< include articles.md >}}
+:::
 
-## Talks, seminars and school lectures
-
-The lists below include my conference talks, invited seminars and school lectures to date; future events are omitted.
-
+::: {.callout-note .expandable-section collapse="true" title="Talks, seminars and school lectures"}
 {{< include talks.md >}}
+:::
