@@ -2,15 +2,6 @@
 title: "Teaching"
 ---
 
-My current teaching is concentrated at the **Universitat de Barcelona**, with an additional open-teaching course at **UNED**.
-
-## Universitat de Barcelona
-
-- **Calculus I** — BSc in Biomedical Engineering · 54 hours
+- **Calculus I** — BSc in Biomedical Engineering · 67 hours
+- **Calculus I** — BSc in Physics · 54 hours
 - **General Relativity** — BSc in Physics · 13 hours
-- **Electrodynamics** — BSc in Physics · 13 hours
-- **Quantum Mechanics** — BSc in Physics · 4 hours
-
-## UNED
-
-- **Geometría del espaciotiempo. Agujeros negros y ondas gravitacionales** — Certificado de enseñanza abierta · 30 hours
