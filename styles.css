@@ -231,3 +231,71 @@ main li,
     padding: 1rem 1.05rem !important;
   }
 }
+
+
+/* Native HTML research expanders */
+.research-expander {
+  margin: 1.6rem 0;
+  border: 1px solid #d8c8cd;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 7px 22px rgba(69,28,38,.07);
+  overflow: hidden;
+}
+
+.research-expander > summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 1.25rem 3.5rem 1.25rem 1.4rem;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 750;
+  letter-spacing: -0.025em;
+  color: var(--pb-accent-dark);
+  background: linear-gradient(135deg, #f5e8ec 0%, #ffffff 100%);
+  border-left: 6px solid var(--pb-accent);
+  transition: background .15s ease, color .15s ease;
+}
+
+.research-expander > summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-expander > summary::after {
+  content: "+";
+  position: absolute;
+  right: 1.35rem;
+  top: 50%;
+  transform: translateY(-52%);
+  font-size: 1.7rem;
+  font-weight: 400;
+  color: var(--pb-accent);
+}
+
+.research-expander[open] > summary::after {
+  content: "−";
+}
+
+.research-expander > summary:hover {
+  background: linear-gradient(135deg, #eedce2 0%, #fff 100%);
+}
+
+.research-expander-body {
+  padding: 1.25rem 1.45rem 1.5rem;
+  border-top: 1px solid var(--pb-line);
+}
+
+.research-expander-body > :first-child {
+  margin-top: 0;
+}
+
+@media(max-width:650px) {
+  .research-expander > summary {
+    font-size: 1.28rem;
+    padding: 1.05rem 3rem 1.05rem 1.05rem;
+  }
+  .research-expander-body {
+    padding: 1rem;
+  }
+}
