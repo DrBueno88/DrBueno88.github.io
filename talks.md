@@ -1,4 +1,4 @@
-## Conference talks
+### Conference talks
 
 - **Regular black holes from pure (nonlocal) gravity** — Beyond the BH Horizon: New Frontiers in Holography and Gravity, Durham University, UK. July 2026..
 - **Conformal bounds from entanglement entropy** — School and Workshop on Advanced Aspects of QFT, Centro Atómico Bariloche, Argentina. May 2026..
@@ -45,7 +45,7 @@
 - **Lifshitz-like solutions with hyperscaling violation in ungauged supergravity** — 5th Strings, Cosmology and Gravity Student Conference (SCGSC). Institut Henri Poincaré, Paris, France. October 2012..
 - **HvLif metrics in ungauged SUGRA** — Barcelona Postgrad Encounters on Fundamental Physics. Universitat de Barcelona, Barcelona, Spain. October 2012..
 
-## Invited seminars
+### Invited seminars
 
 - **Regular black holes from pure gravity: lessons and perspectives** — Online Seminar at DIAS, Dublin University, Ireland. April 2026..
 - **ECOs desde el abismo?** — Escuela Politécnica Nacional, Quito, Ecuador, January 2026..
@@ -88,7 +88,7 @@
 - **Universal entanglement of non-smooth surfaces** — Oviedo University, Oviedo, Spain. November 2015..
 - **Universal entanglement of singular surfaces** — Université Libre de Bruxelles, Brussels, Belgium. November 2015..
 
-## School lectures
+### School lectures
 
 - **Entanglement in quantum field theory** — Giambiagi School 2025, Universidad de Buenos Aires, Buenos Aires, Argentina. July 2025.
 - **General Relativity and beyond** — Escuela Politécnica Nacional, Quito, Ecuador. January 2023. Lectures on:.
