@@ -1,7 +1,5 @@
 ---
 title: "Career"
-subtitle: "Appointments, education and selected distinctions"
-description: "Appointments, education and selected distinctions"
 ---
 
 ## Academic appointments
