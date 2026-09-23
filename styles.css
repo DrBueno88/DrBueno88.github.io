@@ -173,3 +173,61 @@ main li,
   border-color: #cab4ba;
   box-shadow: 0 8px 24px rgba(69,28,38,.07);
 }
+
+
+/* Strong visual treatment for the two Research expanders */
+#quarto-document-content .expandable-section.callout {
+  border: 0 !important;
+  border-radius: 14px !important;
+  overflow: hidden;
+  margin: 1.55rem 0 !important;
+  box-shadow: 0 5px 18px rgba(69,28,38,.08) !important;
+}
+
+#quarto-document-content .expandable-section .callout-header {
+  min-height: 72px;
+  padding: 1.15rem 1.35rem !important;
+  display: flex !important;
+  align-items: center !important;
+  background: linear-gradient(135deg, #f8eef1 0%, #ffffff 100%) !important;
+  border-left: 6px solid var(--pb-accent) !important;
+  cursor: pointer;
+}
+
+#quarto-document-content .expandable-section .callout-icon-container {
+  display: none !important;
+}
+
+#quarto-document-content .expandable-section .callout-title-container {
+  font-size: 1.48rem !important;
+  line-height: 1.15 !important;
+  font-weight: 760 !important;
+  letter-spacing: -0.025em !important;
+  color: var(--pb-accent-dark) !important;
+}
+
+#quarto-document-content .expandable-section .callout-btn-toggle {
+  margin-left: .8rem !important;
+}
+
+#quarto-document-content .expandable-section .callout-toggle {
+  font-size: 1.35rem !important;
+}
+
+#quarto-document-content .expandable-section .callout-body {
+  padding: 1.15rem 1.35rem 1.35rem !important;
+}
+
+#quarto-document-content .expandable-section .callout-header:hover {
+  background: linear-gradient(135deg, #f2e2e7 0%, #fff 100%) !important;
+}
+
+@media (max-width: 650px) {
+  #quarto-document-content .expandable-section .callout-title-container {
+    font-size: 1.28rem !important;
+  }
+  #quarto-document-content .expandable-section .callout-header {
+    min-height: 64px;
+    padding: 1rem 1.05rem !important;
+  }
+}
