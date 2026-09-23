@@ -1,0 +1,74 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="hero-split">
+<div class="hero-copy">
+<div class="hero-kicker">Theoretical physics · Gravitation · Quantum field theory</div>
+
+# Pablo Bueno
+
+<div class="hero-lead">
+I am a theoretical physicist and Professor Agregat at the Institute of Cosmos Sciences of the University of Barcelona (ICCUB). I work on black holes, gravitational theories beyond General Relativity, quantum field theory, entanglement and holography.
+</div>
+
+<div class="hero-meta">
+<span class="pill">Professor Agregat · Universitat de Barcelona</span>
+<span class="pill">ICCUB</span>
+<span class="pill">Barcelona</span>
+</div>
+
+<div class="button-row">
+<a class="pb-button primary" href="research.html">Research</a>
+<a class="pb-button secondary" href="publications.html">Publications</a>
+<a class="pb-button secondary" href="people.html">People</a>
+</div>
+</div>
+<div class="hero-photo-wrap">
+<img class="hero-photo" src="assets/pablo-bueno.jpg" alt="Pablo Bueno">
+</div>
+</div>
+
+## Research
+
+<div class="grid-cards">
+<a class="card-clean research-link" href="research.html#black-holes"><h3>Black holes</h3><p>Regular black holes, collapse, interiors, extremality and the fate of spacetime singularities.</p></a>
+<a class="card-clean research-link" href="research.html#higher-curvature-gravity"><h3>Higher-curvature gravity</h3><p>Einsteinian cubic gravity, generalized quasi-topological gravities and related extensions of General Relativity.</p></a>
+<a class="card-clean research-link" href="research.html#entanglement-in-quantum-field-theory"><h3>Entanglement in quantum field theory</h3><p>Entanglement entropy, mutual information and universal constraints on quantum and conformal field theories.</p></a>
+<a class="card-clean research-link" href="research.html#holography-and-quantum-gravity"><h3>Holography and quantum gravity</h3><p>Holographic entanglement, geometry, generalized symmetries and quantum aspects of gravity.</p></a>
+</div>
+
+<div class="stats">
+<div class="stat"><strong>73</strong><span>research articles/preprints listed in the September 2026 CV</span></div>
+<div class="stat"><strong>h = 35</strong><span>h-index reported in the September 2026 CV</span></div>
+<div class="stat"><strong>4000+</strong><span>citations on INSPIRE-HEP</span></div>
+<div class="stat"><strong>700+</strong><span>citations reported during the previous year</span></div>
+</div>
+
+## Recent papers
+
+## 2026
+
+<div class="paper-item">
+<div class="paper-title"><a href="https://arxiv.org/abs/2609.07801">Logarithmic correction to the entropy of near-extremal higher-curvature black holes</a></div>
+<div class="paper-meta">Pablo Bueno, Pablo A. Cano, Robie A. Hennigar, Javier Moreno, Ángel J. Murcia and Guido van der Velde · <a href="https://arxiv.org/abs/2609.07801">arXiv:2609.07801</a></div>
+</div>
+
+<div class="paper-item">
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.07790">Regular Black Holes in Nonlocal Quasitopological Gravity</a></div>
+<div class="paper-meta">Pablo Bueno, Pablo A. Cano, Robie A. Hennigar and Ángel J. Murcia · <a href="https://arxiv.org/abs/2607.07790">arXiv:2607.07790</a></div>
+</div>
+
+<div class="paper-item">
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.19860">Mutual Information from Modular Flow in General CFTs</a></div>
+<div class="paper-meta">César A. Agón, Pablo Bueno, Adem D. Piskin and Guido van der Velde · Phys. Rev. D 114, (2026) L041704 · <a href="https://arxiv.org/abs/2604.19860">arXiv:2604.19860</a></div>
+</div>
+
+<div class="paper-item">
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.01436">Entanglement entropy and conformal bounds for d = 5 CFTs</a></div>
+<div class="paper-meta">Pablo Bueno, Adam F. García, Francesco Gentile, Oscar Lasso Andino and Javier Moreno · JHEP 2608 (2026) 133 · <a href="https://arxiv.org/abs/2604.01436">arXiv:2604.01436</a></div>
+</div>
+
+<p class="more-link"><a href="research.html#all-research-articles">All research articles →</a></p>
