@@ -6,11 +6,8 @@ Research is collaborative. The people below include long-standing collaborators,
 
 ## Collaborators
 
-<div class="collab-image-placeholder">
-<div>
-<strong>Group illustration to be added</strong>
-Robie A. Hennigar · Pablo A. Cano · Javier Moreno · Ángel J. Murcia
-</div>
+<div class="collab-hero-image">
+<img src="assets/people-collaborators.jpg" alt="Cartoon group portrait of Pablo Bueno with Robie A. Hennigar, Pablo A. Cano, Javier Moreno and Ángel J. Murcia discussing black holes, quasitopological gravity and conformal bounds." loading="lazy">
 </div>
 
 
