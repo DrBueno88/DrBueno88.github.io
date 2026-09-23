@@ -33,15 +33,11 @@ I am a theoretical physicist and Professor Agregat at the Institute of Cosmos Sc
 
 ## About me
 
-I am from **Tineo, Asturias**, and currently live in **Barcelona with my wife and our two cats**. My academic path has taken me through Oviedo, Madrid, Waterloo, Leuven, Amsterdam, Bariloche, CERN and Barcelona.
+I am from **Tineo, Asturias**, and currently live in **Barcelona with my wife and our two cats**. My family is originally from **A Fonsagrada, Lugo**, in eastern Galicia, close to the Asturian border. My academic path has taken me through Oviedo, Madrid, Waterloo, Leuven, Amsterdam, Bariloche, CERN and Barcelona.
 
 Most of my work is driven by a simple question: **which features of gravity and quantum field theory are genuinely universal, and which depend on the particular language or model we use to describe them?**
 
 Outside physics, I am also an **economist in training**, currently pursuing undergraduate studies in Economics through UNED.
-
-## Tineo
-
-I grew up in Tineo, in western Asturias. For a visual impression of the area, see the [official Tineo tourism site](https://turismotineo.es/) or the [Wikimedia Commons gallery for Tinéu](https://commons.wikimedia.org/wiki/Category:Tin%C3%A9u).
 
 ## Contact
 
@@ -50,3 +46,9 @@ I grew up in Tineo, in western Asturias. For a visual impression of the area, se
 Barcelona, Spain
 
 [pablobueno@ub.edu](mailto:pablobueno@ub.edu)
+
+## Tineo and A Fonsagrada
+
+I grew up in **Tineo**, in western Asturias. For a visual impression of the area, see the [official Tineo tourism site](https://turismotineo.es/) or the [Wikimedia Commons gallery for Tinéu](https://commons.wikimedia.org/wiki/Category:Tin%C3%A9u).
+
+My family roots are in **A Fonsagrada**, in the province of Lugo, Galicia. It is a mountainous area near the border with Asturias and one of the traditional Galician gateways of the Camino Primitivo. See also [A Fonsagrada on Wikipedia](https://en.wikipedia.org/wiki/A_Fonsagrada).
