@@ -116,14 +116,7 @@
     "href": "index.html#about-me",
     "title": "Pablo Bueno",
     "section": "About me",
-    "text": "About me\nI am from Tineo, Asturias, and currently live in Barcelona with my wife and our two cats. My academic path has taken me through Oviedo, Madrid, Waterloo, Leuven, Amsterdam, Bariloche, CERN and Barcelona.\nMost of my work is driven by a simple question: which features of gravity and quantum field theory are genuinely universal, and which depend on the particular language or model we use to describe them?\nOutside physics, I am also an economist in training, currently pursuing undergraduate studies in Economics through UNED."
-  },
-  {
-    "objectID": "index.html#tineo",
-    "href": "index.html#tineo",
-    "title": "Pablo Bueno",
-    "section": "Tineo",
-    "text": "Tineo\nI grew up in Tineo, in western Asturias. For a visual impression of the area, see the official Tineo tourism site or the Wikimedia Commons gallery for Tinéu."
+    "text": "About me\nI am from Tineo, Asturias, and currently live in Barcelona with my wife and our two cats. My family is originally from A Fonsagrada, Lugo, in eastern Galicia, close to the Asturian border. My academic path has taken me through Oviedo, Madrid, Waterloo, Leuven, Amsterdam, Bariloche, CERN and Barcelona.\nMost of my work is driven by a simple question: which features of gravity and quantum field theory are genuinely universal, and which depend on the particular language or model we use to describe them?\nOutside physics, I am also an economist in training, currently pursuing undergraduate studies in Economics through UNED."
   },
   {
     "objectID": "index.html#contact",
@@ -131,6 +124,13 @@
     "title": "Pablo Bueno",
     "section": "Contact",
     "text": "Contact\nInstitute of Cosmos Sciences (ICCUB)\nUniversitat de Barcelona\nBarcelona, Spain\npablobueno@ub.edu"
+  },
+  {
+    "objectID": "index.html#tineo-and-a-fonsagrada",
+    "href": "index.html#tineo-and-a-fonsagrada",
+    "title": "Pablo Bueno",
+    "section": "Tineo and A Fonsagrada",
+    "text": "Tineo and A Fonsagrada\nI grew up in Tineo, in western Asturias. For a visual impression of the area, see the official Tineo tourism site or the Wikimedia Commons gallery for Tinéu.\nMy family roots are in A Fonsagrada, in the province of Lugo, Galicia. It is a mountainous area near the border with Asturias and one of the traditional Galician gateways of the Camino Primitivo. See also A Fonsagrada on Wikipedia."
   },
   {
     "objectID": "talks.html",
