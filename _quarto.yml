@@ -14,8 +14,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: publications.qmd
-        text: Publications
       - href: people.qmd
         text: People
       - href: teaching.qmd
@@ -24,8 +22,6 @@ website:
         text: Career
       - href: outreach.qmd
         text: Outreach
-      - href: about.qmd
-        text: About
     right:
       - icon: envelope
         href: mailto:pablobueno@ub.edu
