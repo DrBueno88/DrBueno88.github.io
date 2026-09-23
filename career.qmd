@@ -1,5 +1,6 @@
 ---
 title: "Career"
+subtitle: "Appointments, education and selected distinctions"
 description: "Appointments, education and selected distinctions"
 ---
 
@@ -13,10 +14,10 @@ description: "Appointments, education and selected distinctions"
 
 ## Education
 
-<div class="timeline-item"><div class="timeline-date">2017–present</div><div><strong>Bachelor degree in Economics</strong><br>Universidad Nacional de Educación a Distancia (UNED)<br><span class="muted">In progress: 168/240 ECTS completed · average mark 8.1/10</span></div></div>
+<div class="timeline-item"><div class="timeline-date">2017–present</div><div><strong>Bachelor degree in Economics</strong><br>Universidad Nacional de Educación a Distancia (UNED)<br><span class="muted">In progress: 168/240 ECTS completed</span></div></div>
 <div class="timeline-item"><div class="timeline-date">2011–2015</div><div><strong>PhD in Theoretical Physics</strong><br>Instituto de Física Teórica UAM/CSIC · highest distinction (cum laude)<br><span class="muted">Advisor: Tomás Ortín · <em>Supergravity, black holes and holography</em></span></div></div>
 <div class="timeline-item"><div class="timeline-date">2011–2013</div><div><strong>MSc in Theoretical Physics</strong><br>Universidad Autónoma de Madrid · 120 ECTS</div></div>
-<div class="timeline-item"><div class="timeline-date">2006–2011</div><div><strong>Licentiate degree in Physics</strong><br>Universidad de Oviedo · Theoretical Physics and Astrophysics<br><span class="muted">Placed first with distinction · Premio fin de carrera · average mark 9.55/10</span></div></div>
+<div class="timeline-item"><div class="timeline-date">2006–2011</div><div><strong>Licentiate degree in Physics</strong><br>Universidad de Oviedo · Theoretical Physics and Astrophysics · 312 ECTS<br><span class="muted">Placed first with distinction · Premio fin de carrera · average mark 9.55/10</span></div></div>
 
 ## Awards, fellowships and distinctions
 
