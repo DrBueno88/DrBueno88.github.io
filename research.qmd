@@ -1,9 +1,9 @@
 ---
 title: "Research"
-description: "Research themes, articles, talks and seminars"
+description: "Research themes, publications, talks and seminars"
 ---
 
-My research sits at the intersection of gravitation, black-hole physics, quantum field theory, holography and quantum information. A recurring theme is the search for structures that remain simple or universal even when one moves beyond the most familiar theories.
+My research sits at the intersection of gravitation, black-hole physics, quantum field theory, holography and quantum information.
 
 <div class="grid-cards research-overview">
 <div class="card-clean"><h3>Black holes</h3><p>Black-hole solutions and dynamics, regular geometries, collapse, interiors, extremality and singularities.</p></div>
@@ -12,69 +12,27 @@ My research sits at the intersection of gravitation, black-hole physics, quantum
 <div class="card-clean"><h3>Holography and quantum gravity</h3><p>Holographic entanglement, quantum aspects of spacetime, generalized symmetries and related geometric questions.</p></div>
 </div>
 
-## Black holes
+## Publications and metrics
 
-A substantial part of my work concerns the structure and dynamics of black holes, particularly when the gravitational dynamics differs from Einstein's theory. Topics include regular black holes, gravitational collapse, the internal structure of black holes, extremal and near-extremal limits, echoes and compact objects, and the role of higher-curvature corrections in singularity resolution.
+<div class="profile-links">
+<a class="pb-button primary" href="https://inspirehep.net/authors/1198358?ui-citation-summary=true">INSPIRE-HEP</a>
+<a class="pb-button secondary" href="https://scholar.google.es/citations?hl=en&user=2uw2cyAAAAAJ&view_op=list_works">Google Scholar</a>
+<a class="pb-button secondary" href="https://orcid.org/0000-0002-9841-4169">ORCID</a>
+</div>
 
-## Higher-curvature gravity
+<div class="stats">
+<div class="stat"><strong>73</strong><span>research articles/preprints listed in the September 2026 CV</span></div>
+<div class="stat"><strong>h = 35</strong><span>h-index reported in the September 2026 CV</span></div>
+<div class="stat"><strong>4000+</strong><span>citations on INSPIRE-HEP</span></div>
+<div class="stat"><strong>4080+</strong><span>citations on Google Scholar</span></div>
+</div>
 
-I have worked extensively on **Einsteinian cubic gravity** and on the broader families of **generalized quasi-topological gravities**. These theories contain higher powers of the curvature while retaining unusually simple equations in physically important sectors. This makes it possible to investigate black holes, cosmology, holography and effective-field-theory questions in settings much richer than General Relativity but still analytically tractable.
-
-## Entanglement in quantum field theory
-
-A second major line of work uses entanglement and information-theoretic quantities to probe the structure of quantum field theories. This includes universal contributions to entanglement entropy, singular and deformed entangling surfaces, mutual and multipartite information, reflected entropy, and bounds on CFT data derived from entanglement constraints.
-
-## Holography and quantum gravity
-
-Holography provides a bridge between these directions. I have used gravitational theories to study entanglement and CFT observables, and conversely quantum-information ideas to constrain gravitational dynamics. Related work concerns generalized symmetries, holographic entanglement entropy, geometric functionals and aspects of quantum gravity.
+The figures above are the values reported in my CV on **22 September 2026**. The profile links provide the current citation counts.
 
 {{< include articles.md >}}
 
-## Seminars and conference talks
+## Talks, seminars and school lectures
 
-Below is a recent selection with explicit titles, venues and dates. The full CV contains earlier talks going back to 2012.
+The lists below reproduce the entries in my CV up to **22 September 2026**. Future events are omitted.
 
-### Conference talks
-
-<div class="talk-item"><div class="talk-title">Regular black holes and higher-curvature corrections</div><div class="talk-venue">Black Holes Inside and Out 2027 (BHIO27), Sapienza University, Rome, Italy · August 2027</div></div>
-<div class="talk-item"><div class="talk-title">Regular black holes from pure (nonlocal) gravity</div><div class="talk-venue">Beyond the BH Horizon: New Frontiers in Holography and Gravity, Durham University, UK · July 2026</div></div>
-<div class="talk-item"><div class="talk-title">Conformal bounds from entanglement entropy</div><div class="talk-venue">School and Workshop on Advanced Aspects of QFT, Centro Atómico Bariloche, Argentina · May 2026</div></div>
-<div class="talk-item"><div class="talk-title">ECOs desde el abismo?</div><div class="talk-venue">III Simposio de Física Teórica y Computacional, Yachay Tech University, Ecuador · January 2026</div></div>
-<div class="talk-item"><div class="talk-title">Regular black holes from pure gravity: lessons and perspectives</div><div class="talk-venue">GRASS-SYMBHOL Meeting, Toledo, Spain · November 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">Quantum Gravity, Holography and Quantum Information, Federal University of Rio Grande do Norte, Natal, Brazil · July 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">Testing Aspects of General Relativity IV, University of Lethbridge, Canada · July 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">Black holes and their symmetries, University of Tours, France · July 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">Gravity, Holography and Entanglement at UdeC-UCSC, Universidad de Concepción, Chile · April 2025</div></div>
-<div class="talk-item"><div class="talk-title">Spacetime Singularities</div><div class="talk-venue">II Simposio de Física Teórica y Computacional, Yachay Tech University, Ecuador · January 2025</div></div>
-<div class="talk-item"><div class="talk-title">Spacetime singularities beyond GR</div><div class="talk-venue">GRASS-SYMBHOL Meeting, Segovia, Spain · October 2024</div></div>
-<div class="talk-item"><div class="talk-title">Regular black holes from pure gravity</div><div class="talk-venue">Spanish-Portuguese Relativity Meeting EREP 2024, Coimbra, Portugal · July 2024</div></div>
-<div class="talk-item"><div class="talk-title">Conformal bounds from entanglement</div><div class="talk-venue">Gauge theories, supergravity and superstrings, Benasque, Spain · June 2024</div></div>
-<div class="talk-item"><div class="talk-title">Regular black holes from pure gravity</div><div class="talk-venue">Gravity: challenges beyond general relativity, Universitat de Barcelona · May 2024</div></div>
-<div class="talk-item"><div class="talk-title">Conformal bounds from entanglement</div><div class="talk-venue">Iberian Strings 2024, University of Porto, Portugal · January 2024</div></div>
-<div class="talk-item"><div class="talk-title">Generalized Symmetries for Generalized Gravitons</div><div class="talk-venue">EuroStrings 2023, University of Oviedo, Gijón, Spain · April 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum field theory from entanglement</div><div class="talk-venue">Quantum Information meets Gravity, University of Würzburg, Germany · March 2023</div></div>
-<div class="talk-item"><div class="talk-title">Plans for future research: gravity and entanglement</div><div class="talk-venue">GRASS-SYMBHOL Meeting, Cuenca, Spain · December 2022</div></div>
-
-### Invited seminars
-
-<div class="talk-item"><div class="talk-title">Regular black holes from pure gravity: lessons and perspectives</div><div class="talk-venue">DIAS, Dublin University, Ireland · April 2026</div></div>
-<div class="talk-item"><div class="talk-title">ECOs desde el abismo?</div><div class="talk-venue">Escuela Politécnica Nacional, Quito, Ecuador · January 2026</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">ICTP, Trieste, Italy · August 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">Radboud University, Nijmegen, The Netherlands · June 2025</div></div>
-<div class="talk-item"><div class="talk-title">Dynamical formation of regular black holes</div><div class="talk-venue">ESPOCH, Riobamba, Ecuador · January 2025</div></div>
-<div class="talk-item"><div class="talk-title">Regular black holes from pure gravity</div><div class="talk-venue">Centro Atómico Bariloche, Argentina · May 2024</div></div>
-<div class="talk-item"><div class="talk-title">How many dimensions does spacetime have?</div><div class="talk-venue">AMARUN, Quito, Ecuador · March 2024</div></div>
-<div class="talk-item"><div class="talk-title">The mystery of black holes</div><div class="talk-venue">Universidad San Francisco de Quito, Ecuador · March 2024</div></div>
-<div class="talk-item"><div class="talk-title">Conformal bounds from entanglement</div><div class="talk-venue">Technion, Haifa, Israel · December 2023</div></div>
-<div class="talk-item"><div class="talk-title">Generalized Symmetries for Generalized Gravitons</div><div class="talk-venue">Universidad de Concepción, Chile · June 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum field theory from entanglement</div><div class="talk-venue">Centro Atómico Bariloche, Argentina · May 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum field theory from entanglement</div><div class="talk-venue">Universidad de Buenos Aires, Argentina · May 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum field theory from entanglement</div><div class="talk-venue">Université de Montréal, Canada · April 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum field theory from entanglement</div><div class="talk-venue">KU Leuven, Belgium · March 2023</div></div>
-<div class="talk-item"><div class="talk-title">Quantum gravity and holography</div><div class="talk-venue">Yachay Tech University, Ecuador · January 2023</div></div>
-<div class="talk-item"><div class="talk-title">Aspects of the QFT entropy cone</div><div class="talk-venue">IFT UAM/CSIC, Madrid, Spain · June 2022</div></div>
-
-### School lectures
-
-<div class="talk-item"><div class="talk-title">Entanglement in quantum field theory</div><div class="talk-venue">Giambiagi School 2025, Universidad de Buenos Aires, Argentina · July 2025</div></div>
-<div class="talk-item"><div class="talk-title">General Relativity and beyond</div><div class="talk-venue">Escuela Politécnica Nacional, Quito, Ecuador · January 2023</div></div>
+{{< include talks.md >}}
