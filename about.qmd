@@ -1,0 +1,29 @@
+---
+title: "About"
+description: "A short personal profile"
+---
+
+<div class="about-grid">
+<div>
+<img class="about-photo" src="assets/pablo-bueno.jpg" alt="Pablo Bueno">
+</div>
+<div>
+I am a theoretical physicist from **Tineo, Asturias**, currently based in Barcelona. My academic path has taken me through Oviedo, Madrid, Waterloo, Leuven, Amsterdam, Bariloche, CERN and Barcelona.
+
+Most of my work is driven by a simple question: **which features of gravity and quantum field theory are genuinely universal, and which depend on the particular language or model we use to describe them?**
+
+Beyond physics, I have also pursued undergraduate studies in Economics through UNED.
+</div>
+</div>
+
+## Tineo
+
+I grew up in Tineo, in western Asturias. For a visual impression of the area, see the [official Tineo tourism site](https://turismotineo.es/) or the [Wikimedia Commons gallery for Tinéu](https://commons.wikimedia.org/wiki/Category:Tin%C3%A9u).
+
+## Contact
+
+**Institute of Cosmos Sciences (ICCUB)**  
+**Universitat de Barcelona**  
+Barcelona, Spain
+
+[pablobueno@ub.edu](mailto:pablobueno@ub.edu)
