@@ -119,3 +119,15 @@ main li,
   font-size:1.05rem;
   margin-bottom:.5rem;
 }
+
+.pub-entry {
+  display:grid;
+  grid-template-columns:2.2rem minmax(0,1fr);
+  gap:.45rem;
+  padding:.55rem 0;
+  border-bottom:1px solid var(--pb-line);
+  line-height:1.42;
+}
+.pub-title { font-weight:650; color:var(--pb-ink); text-decoration:none; }
+.pub-title:hover { color:var(--pb-accent); }
+.pub-ref { color:var(--pb-muted); font-size:.92rem; }
