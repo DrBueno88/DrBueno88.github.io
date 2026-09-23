@@ -1,5 +1,6 @@
 ---
 title: "Research"
+subtitle: "Research themes, publications, talks and seminars"
 description: "Research themes, publications, talks and seminars"
 ---
 
@@ -21,18 +22,15 @@ My research sits at the intersection of gravitation, black-hole physics, quantum
 </div>
 
 <div class="stats">
-<div class="stat"><strong>73</strong><span>research articles/preprints listed in the September 2026 CV</span></div>
-<div class="stat"><strong>h = 35</strong><span>h-index reported in the September 2026 CV</span></div>
-<div class="stat"><strong>4000+</strong><span>citations on INSPIRE-HEP</span></div>
-<div class="stat"><strong>4080+</strong><span>citations on Google Scholar</span></div>
+<div class="stat"><strong>73</strong><span>research articles and preprints, all with six authors or fewer</span></div>
+<div class="stat"><strong>h = 35</strong><span>h-index</span></div>
+<div class="stat"><strong>4000+</strong><span>citations</span></div>
 </div>
-
-The figures above are the values reported in my CV on **22 September 2026**. The profile links provide the current citation counts.
 
 {{< include articles.md >}}
 
 ## Talks, seminars and school lectures
 
-The lists below reproduce the entries in my CV up to **22 September 2026**. Future events are omitted.
+The lists below include my conference talks, invited seminars and school lectures to date; future events are omitted.
 
 {{< include talks.md >}}
